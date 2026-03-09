@@ -1,2 +1,2 @@
-# Java Learning/Tech Corp Simulator
+# tech corp simulator
 Java Learning - 2026 - Summer 
